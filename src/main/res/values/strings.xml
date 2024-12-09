@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vamos Rachar Kotlin</string>
+    <string name="vamos_rachar">Vamos Rachar!</string>
+    <string name="vamos_rachar_title">Vamos Rachar</string>
+    <string name="value_icon">R$</string>
+    <string name="value_1">Valor 1</string>
+    <string name="value_2">Valor 2</string>
+</resources>
